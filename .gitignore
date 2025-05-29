@@ -21,3 +21,4 @@ log
 report
 tmp
 .env*
+.hamster_commander*
